@@ -37,3 +37,8 @@ https://www.gnupg.org/download/index.html http://www.ring.gr.jp/pub/net/gnupg/
 6.将主机B上经主机A的公钥加密后的txt文档拷贝/发送至主机A。
 
 7.在主机A上对机密文档进行解密。
+
+
+
+{% file src=".gitbook/assets/PGP_GnuPG_密码应用实验详细分析.docx" %}
+
